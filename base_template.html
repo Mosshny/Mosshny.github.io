@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>CNN-tuberculosis - prediction</title>
+    <link href="{{ url_for('static',filename='style.css') }}" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+<body style="background-color:#b7d9d9">
+<header>
+  <nav>
+    <ul class="nav_bar">
+      <li><a href="/">Главная</a></li>
+      <li><a href="/graph">Метрики</a></li>
+      <li style="background-color: #516f97;"  class="right active"><a style="color: white;" href="/predict">Протестировать<strong></strong></a></li>
+    </ul>
+ </nav>
+</header>
+<main style= "text-align:center;">
+  <h1>Распознавание туберкулёза с помощью CNN</h1>
+  {% block content %}
+  {% endblock %}
+</main>
+</body>
+</html>
