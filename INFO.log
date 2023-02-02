@@ -1,0 +1,1760 @@
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 796-990-268
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 16:50:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 16:50:10] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 16:50:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 16:51:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 16:51:33] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'D:\\Website_tanya\\FLASK_SITE\\configs.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 796-990-268
+INFO:werkzeug: * Detected change in 'D:\\Website_tanya\\FLASK_SITE\\configs.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 796-990-268
+INFO:werkzeug: * Detected change in 'D:\\Website_tanya\\FLASK_SITE\\configs.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 796-990-268
+INFO:werkzeug: * Detected change in 'D:\\Website_tanya\\FLASK_SITE\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 796-990-268
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 16:55:09] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 16:55:09] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: 'CHNCXR_0344_1.png' ('image/png')>)])
+INFO:NN_flask:<FileStorage: 'CHNCXR_0344_1.png' ('image/png')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "CHNCXR_0344_1.png" with class "png"
+INFO:NN_flask:Starting preprocess image...
+INFO:NN_flask:size = (300, 300)
+INFO:NN_flask:Starting analise image...
+DEBUG:h5py._conv:Creating converter from 3 to 5
+INFO:NN_flask:Return on web-client predictions:  2, [0.2 0.8]
+INFO:NN_flask:Ending.
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 16:55:24] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 16:55:24] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 16:55:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 16:55:48] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 16:56:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 16:56:41] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 16:57:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 16:57:16] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\Website_tanya\\site.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 796-990-268
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:05:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:05:51] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:05:55] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:05:55] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:06:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:06:09] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:06:11] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:08:33] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:08:38] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:08:52] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:08:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:08:55] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:08:55] "[33mGET /Ñnn_graph.PNG HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:08:55] "[33mGET /Ñnn_matrix.PNG HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:08:55] "GET /Transfer_graph.PNG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:08:55] "GET /Transfer_matrix.PNG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:09:02] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:11:27] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:11:27] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:11:27] "[33mGET /Ñnn_graph.PNG HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:11:27] "[33mGET /Ñnn_matrix.PNG HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:11:27] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:11:27] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:12:01] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:12:01] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:12:01] "[33mGET /Ñnn_graph.PNG HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:12:02] "[33mGET /Ñnn_matrix.PNG HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:12:02] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:12:02] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:12:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:12:02] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:12:03] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:12:04] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:12:04] "[33mGET /Ñnn_graph.PNG HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:12:04] "[33mGET /Ñnn_matrix.PNG HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:12:04] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:12:04] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:13:03] "[35m[1mGET /graph HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:13:03] "GET /graph?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:13:03] "GET /graph?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:13:04] "GET /graph?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:13:04] "[36mGET /graph?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:13:33] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:13:33] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:13:33] "[33mGET /Ñnn_matrix.PNG HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:13:33] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:13:33] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:13:33] "GET /Cnn_graph.PNG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:13:50] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:13:51] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:13:51] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:13:51] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:13:51] "GET /Cnn_matrix.PNG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:13:51] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:14:09] "[35m[1mGET /graph HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:14:10] "[36mGET /graph?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:14:10] "[36mGET /graph?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:14:10] "[36mGET /graph?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:14:10] "[36mGET /graph?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:14:44] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:14:44] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:14:44] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:14:44] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:14:44] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:14:44] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:15:57] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:15:57] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:15:57] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:15:57] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:15:57] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:15:57] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:16:26] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:16:26] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:16:27] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:16:27] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:16:27] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:16:27] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:16:35] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:16:35] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:16:35] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:16:35] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:16:35] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:16:35] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:16:37] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:16:37] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:16:37] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:16:37] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:16:37] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:16:37] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:16:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:16:38] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:16:40] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:16:40] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:16:40] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:16:40] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:16:40] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:16:40] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:16:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:16:41] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:16:45] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:16:45] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:16:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:16:48] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:17:15] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:17:15] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:17:15] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:17:15] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:17:15] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:17:15] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:17:20] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:17:20] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:17:21] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:17:21] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:17:21] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:17:21] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:17:46] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:17:46] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:17:46] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:17:46] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:17:46] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:17:46] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:17:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:17:48] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:18:08] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:18:08] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:18:08] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:18:08] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:18:08] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:18:08] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:18:09] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:18:09] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:18:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:18:19] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:18:24] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:18:24] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:18:24] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:18:25] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:18:25] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:18:25] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:18:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:18:26] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:19:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:19:17] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:19:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:19:41] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:19:42] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:19:42] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:19:42] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:19:42] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:19:42] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:19:42] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:20:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:20:06] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:21:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:21:10] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:22:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:22:00] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:22:03] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:22:03] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:22:03] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:22:03] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:22:03] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:22:03] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:22:05] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:22:05] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:22:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:22:06] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:22:20] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:22:20] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:22:21] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:22:21] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:22:21] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:22:21] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:22:26] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:22:26] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:25:25] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:25:25] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:25:25] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:25:25] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:25:25] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:25:25] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:25:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:25:26] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:25:29] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:25:29] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:25:29] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:25:29] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:25:29] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:25:29] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:26:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:26:01] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:26:44] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:26:44] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:26:44] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:26:44] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:26:44] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:26:44] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:26:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:26:56] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:28:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:28:08] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:28:09] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:28:09] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:28:09] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:28:09] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:28:09] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:28:09] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:28:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:28:40] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:31:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:31:56] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:35:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:35:04] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:40:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:40:49] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:44:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:44:31] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:45:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:45:07] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:45:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:45:26] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:45:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:45:40] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:45:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:45:42] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:45:42] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:45:43] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:45:43] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:45:43] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:45:43] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:45:43] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:45:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:45:43] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:45:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:45:48] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:46:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:46:06] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:48:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:48:22] "GET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:48:22] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:52:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:52:58] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:52:58] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:53:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:53:09] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:53:10] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:53:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:53:50] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:53:50] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:55:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:55:32] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:55:32] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:55:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:55:40] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:55:40] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:55:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:55:54] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:55:54] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:56:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:56:01] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:56:01] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:56:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:56:06] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:56:07] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:56:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:56:33] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:56:33] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:56:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:56:40] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:56:40] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:56:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:56:52] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:56:52] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:56:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:56:56] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:56:57] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:57:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:57:00] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:57:00] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:57:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:57:56] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:57:56] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:58:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:58:00] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:58:00] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:58:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:58:04] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:58:04] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:58:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:58:09] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:58:09] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:58:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:58:52] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:58:53] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:58:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:58:58] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:58:58] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:59:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:59:02] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:59:02] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:59:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:59:06] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:59:06] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:59:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:59:09] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:59:10] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:59:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:59:14] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:59:14] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:59:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:59:18] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:59:19] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:59:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:59:22] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:59:22] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:59:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:59:27] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:59:27] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:59:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:59:34] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:59:34] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:59:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:59:38] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:59:38] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:59:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:59:53] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 17:59:53] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:00:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:00:03] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:00:03] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:00:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:00:48] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:00:48] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:00:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:00:58] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:00:58] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:01:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:01:12] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:01:12] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:01:23] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:01:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:01:43] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:01:43] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:01:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:01:44] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:01:45] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:01:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:01:49] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:01:49] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:02:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:02:04] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:02:04] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:02:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:02:08] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:02:08] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:02:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:02:22] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:02:23] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:02:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:02:28] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:02:28] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:10:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:10:44] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:10:44] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:12:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:12:25] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:12:25] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:13:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:13:11] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:13:11] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:13:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:13:30] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:13:30] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:14:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:14:17] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:14:17] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:14:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:14:24] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:14:24] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:16:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:16:19] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:16:19] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:16:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:16:57] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:16:57] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:18:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:18:47] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:18:48] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:18:48] "GET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:19:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:19:15] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:19:15] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:19:15] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:19:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:19:24] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:19:24] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:19:24] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:19:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:19:34] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:19:35] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:19:35] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:20:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:20:42] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:20:42] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:20:42] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:22:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:22:12] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:22:12] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:22:12] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:22:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:22:28] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:22:28] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:22:28] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:22:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:22:39] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:22:39] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:22:39] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:22:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:22:45] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:22:45] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:22:45] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:22:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:22:53] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:22:54] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:22:54] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:23:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:23:36] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:23:36] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:23:37] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:23:40] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:23:40] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:23:41] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:23:41] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:23:41] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:23:41] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:23:53] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:23:53] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:23:53] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:23:53] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:23:53] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:23:53] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:23:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:23:55] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:23:55] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:23:55] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:25:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:25:23] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:25:23] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:25:23] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:25:26] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:25:26] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:25:26] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:25:26] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:25:26] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:25:26] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:26:18] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:26:18] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:26:18] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:26:18] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:26:18] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:26:18] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:26:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:26:20] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:26:20] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:26:20] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:26:22] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:26:22] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:26:22] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:26:22] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:26:22] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:26:22] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:26:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:26:28] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:26:28] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:26:28] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:27:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:27:02] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:27:03] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:27:03] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:27:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:27:19] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:27:19] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:27:19] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:27:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:27:36] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:27:36] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:27:36] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:28:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:28:04] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:28:04] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:28:04] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:28:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:28:13] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:28:13] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:28:13] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:28:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:28:23] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:28:23] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:28:23] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:28:26] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:28:26] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:28:26] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:28:26] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:28:26] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:28:26] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:28:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:28:28] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:28:28] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:28:28] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:28:32] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:28:32] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:28:32] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:28:33] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:28:33] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:28:33] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:29:13] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:29:13] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:29:13] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:29:14] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:29:14] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:29:14] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:29:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:29:15] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:29:15] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:29:15] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:29:58] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:29:58] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:29:58] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:29:58] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:29:58] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:29:58] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:29:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:29:59] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:00] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:00] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:00] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:00] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:00] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:00] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:00] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:00] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:20] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:20] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:20] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:21] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:21] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:21] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:21] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:22] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:22] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:28] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:28] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:28] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:28] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:28] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:28] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:29] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:29] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:29] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:30] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:30] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:30] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:30] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:30] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:30] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:34] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:35] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:58] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:58] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:58] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:58] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:58] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:30:58] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:31:00] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:31:00] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:31:27] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:31:27] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:31:32] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:31:32] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:32:03] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:32:03] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:32:04] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:32:04] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:32:05] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:32:05] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:32:05] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:32:05] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:32:06] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:32:06] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:32:30] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:32:30] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:32:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:32:36] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:32:36] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:32:36] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:33:04] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:33:05] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:33:05] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:33:05] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:33:05] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:33:05] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:33:06] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:33:06] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:33:23] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:33:23] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:33:30] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:33:30] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:33:38] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:33:38] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:33:44] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:33:44] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:34:23] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:34:23] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:34:54] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:34:54] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:35:04] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:35:04] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:35:49] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:35:49] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:36:05] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:36:05] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:36:11] "[35m[1mGET /analise/image HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:36:11] "GET /analise/image?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:36:12] "GET /analise/image?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:36:12] "GET /analise/image?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:36:12] "[36mGET /analise/image?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:36:21] "[35m[1mGET /analise/image HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:36:21] "[36mGET /analise/image?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:36:22] "[36mGET /analise/image?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:36:22] "[36mGET /analise/image?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:36:42] "[35m[1mGET /analise/image HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:36:42] "[36mGET /analise/image?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:36:42] "[36mGET /analise/image?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:36:42] "[36mGET /analise/image?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'D:\\Website_tanya\\site.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 796-990-268
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:37:22] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:37:23] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:37:25] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:37:25] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:37:26] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:37:26] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:38:23] "[35m[1mGET /analise/image HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:38:23] "[36mGET /analise/image?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:38:23] "[36mGET /analise/image?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:38:23] "[36mGET /analise/image?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:38:23] "[36mGET /analise/image?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:38:35] "[35m[1mGET /analise/image HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:38:35] "[36mGET /analise/image?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:38:35] "[36mGET /analise/image?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:38:35] "[36mGET /analise/image?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:38:55] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:38:56] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:38:57] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:38:57] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:38:58] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:38:58] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:39:23] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:39:23] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:39:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:39:25] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:39:25] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:39:25] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:39:26] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:39:26] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:39:27] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:39:27] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:39:27] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:39:27] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:39:28] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:39:28] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:39:39] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:39:39] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:39:41] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:39:41] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:39:41] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:39:42] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:39:42] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:39:42] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:39:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:39:42] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:39:42] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:39:43] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:05] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:05] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:06] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:06] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:06] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:07] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:07] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:07] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:07] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:09] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:09] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:31] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:31] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:33] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:33] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:33] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:34] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:34] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:34] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:34] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:34] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:34] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:35] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:35] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:39] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:39] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:39] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:40] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:40] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:40] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:40] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:40] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:40] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:42] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:42] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:43] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:47] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:40:47] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:41:33] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:41:34] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:42:28] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:42:28] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:42:42] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:42:42] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:42:58] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:42:58] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:43:38] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:43:39] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:43:40] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:43:41] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:43:41] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:43:41] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:43:41] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:43:41] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:43:42] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:43:42] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:43:43] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:43:43] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:43:43] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:43:43] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:43:43] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:43:43] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:43:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:43:44] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:43:44] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:43:44] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:43:45] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:43:45] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:43:46] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:43:46] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:43:46] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:43:46] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:43:47] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:43:47] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:44:32] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:44:32] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:44:42] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:44:42] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:02] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:02] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:02] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:02] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:02] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:02] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:03] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:03] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:05] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:05] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:05] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:06] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:06] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:06] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:06] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:06] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:06] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:23] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:23] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:23] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:23] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:24] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:24] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:25] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:25] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:25] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:27] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:27] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:27] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:27] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:27] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:27] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:28] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:28] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:28] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:30] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:30] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:30] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:30] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:30] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:30] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:31] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:31] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:33] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:33] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:33] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:34] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:34] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:34] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:34] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:34] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:34] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:36] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:36] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:38] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:38] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:45:38] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:46:19] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:46:19] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:46:20] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:46:20] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:46:20] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:46:20] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:46:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:46:21] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:46:21] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:46:21] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:46:22] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:46:22] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:46:24] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:46:24] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:46:30] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:46:30] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:46:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:46:46] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:46:47] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:46:47] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:46:48] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:46:48] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:46:48] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:46:48] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:46:48] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:46:48] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:46:50] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:46:50] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:46:56] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:46:56] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: 'CHNCXR_0060_0.png' ('image/png')>)])
+INFO:NN_flask:<FileStorage: 'CHNCXR_0060_0.png' ('image/png')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "CHNCXR_0060_0.png" with class "png"
+INFO:NN_flask:Starting preprocess image...
+INFO:NN_flask:size = (300, 300)
+INFO:NN_flask:Starting analise image...
+DEBUG:h5py._conv:Creating converter from 3 to 5
+INFO:NN_flask:Return on web-client predictions:  1, [0.99 0.01]
+INFO:NN_flask:Ending.
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:47:09] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:47:09] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:48:48] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:48:48] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:48:48] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:48:49] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:48:58] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:48:58] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:49:10] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:49:10] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:49:12] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:49:12] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:49:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:49:25] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:49:25] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:49:25] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:49:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:49:45] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:49:46] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:49:46] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:50:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:50:40] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:50:41] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:50:41] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:50:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:50:58] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:50:58] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:50:58] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:50:59] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:50:59] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:50:59] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:50:59] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:50:59] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:50:59] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:51:00] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:51:00] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:51:03] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:51:03] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:51:05] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:51:05] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:51:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:51:06] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:51:06] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:51:06] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:51:16] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:51:16] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:51:16] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:51:16] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:51:16] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:51:16] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:51:20] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:51:20] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:51:25] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:51:26] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: 'CHNCXR_0060_0.png' ('image/png')>)])
+INFO:NN_flask:<FileStorage: 'CHNCXR_0060_0.png' ('image/png')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "CHNCXR_0060_0.png" with class "png"
+INFO:NN_flask:Starting preprocess image...
+INFO:NN_flask:size = (300, 300)
+INFO:NN_flask:Starting analise image...
+INFO:NN_flask:Return on web-client predictions:  1, [0.99 0.01]
+INFO:NN_flask:Ending.
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:51:37] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:51:37] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:53:51] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:53:51] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:53:51] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:53:51] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:53:51] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:53:51] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:53:56] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:53:56] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:53:56] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:53:56] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:53:56] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:53:56] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:54:17] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:54:17] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:54:17] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:54:17] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:54:17] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:54:17] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:54:47] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:54:47] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:54:47] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:54:47] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:54:47] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:54:47] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:54:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:54:53] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:54:53] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:54:54] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:54:54] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:54:54] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:54:54] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:54:55] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:54:55] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:54:55] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:02] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:02] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:02] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:03] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:03] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:03] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:05] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:05] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:05] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:06] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:06] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:06] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:06] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:06] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:06] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:08] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:08] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:10] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:11] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:11] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:15] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:15] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:15] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:15] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:15] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:15] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:16] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:16] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:16] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:24] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:24] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:24] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:24] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:24] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:55:24] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:59:47] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:59:47] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:59:48] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:59:48] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:59:48] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:59:48] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:59:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:59:48] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:59:49] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:59:49] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:59:51] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:59:51] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:59:52] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:59:52] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:59:52] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:59:52] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:59:52] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:59:52] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:59:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:59:53] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:59:53] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2023 18:59:53] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 501-006-409
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:18:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:18:02] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:18:02] "GET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:18:02] "GET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:18:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:18:17] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:18:18] "GET /Cnn_graph.PNG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:18:18] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:18:18] "GET /Cnn_matrix.PNG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:18:18] "GET /Transfer_matrix.PNG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:18:18] "GET /Transfer_graph.PNG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:18:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:18:20] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:18:20] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:18:20] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:18:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:18:33] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:18:34] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:18:34] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:18:42] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:18:42] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:18:42] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:18:42] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:18:42] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:18:42] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:18:47] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:18:47] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:18:51] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:18:51] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: 'formy-tuberkuleza3.jpg' ('image/jpeg')>)])
+INFO:NN_flask:<FileStorage: 'formy-tuberkuleza3.jpg' ('image/jpeg')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "formy-tuberkuleza3.jpg" with class "jpg"
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:19:50] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:19:50] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: '' ('application/octet-stream')>)])
+INFO:NN_flask:<FileStorage: '' ('application/octet-stream')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:19:56] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:19:56] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: '' ('application/octet-stream')>)])
+INFO:NN_flask:<FileStorage: '' ('application/octet-stream')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:19:57] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:19:57] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: 'formy-tuberkuleza3.jpg' ('image/jpeg')>)])
+INFO:NN_flask:<FileStorage: 'formy-tuberkuleza3.jpg' ('image/jpeg')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "formy-tuberkuleza3.jpg" with class "jpg"
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:20:03] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:20:03] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: 'formy-tuberkuleza3.jpg' ('image/jpeg')>)])
+INFO:NN_flask:<FileStorage: 'formy-tuberkuleza3.jpg' ('image/jpeg')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "formy-tuberkuleza3.jpg" with class "jpg"
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:20:09] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:20:09] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: 'home.png' ('image/png')>)])
+INFO:NN_flask:<FileStorage: 'home.png' ('image/png')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "home.png" with class "png"
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:20:28] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:20:28] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:22:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:22:30] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:22:31] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:22:31] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:23:40] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:23:40] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:23:40] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:23:40] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:23:40] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:23:40] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:23:44] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:23:44] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:23:45] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:23:45] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: 'formy-tuberkuleza3.jpg' ('image/jpeg')>)])
+INFO:NN_flask:<FileStorage: 'formy-tuberkuleza3.jpg' ('image/jpeg')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "formy-tuberkuleza3.jpg" with class "jpg"
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:23:52] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:23:52] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 144-211-921
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:39:29] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:39:29] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:39:30] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:39:31] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:41:10] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:41:10] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:41:11] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:41:11] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:41:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:41:18] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:41:18] "GET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:41:18] "GET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:42:28] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:42:28] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:42:29] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:42:29] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: 'formy-tuberkuleza3.jpg' ('image/jpeg')>)])
+INFO:NN_flask:<FileStorage: 'formy-tuberkuleza3.jpg' ('image/jpeg')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "formy-tuberkuleza3.jpg" with class "jpg"
+INFO:NN_flask:Starting preprocess image...
+INFO:NN_flask:size = (300, 300)
+INFO:NN_flask:Starting analise image...
+DEBUG:h5py._conv:Creating converter from 3 to 5
+INFO:NN_flask:Return on web-client predictions:  2, [0.43 0.57]
+INFO:NN_flask:Ending.
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:42:43] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:42:43] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: 'formy-tuberkuleza3.jpg' ('image/jpeg')>)])
+INFO:NN_flask:<FileStorage: 'formy-tuberkuleza3.jpg' ('image/jpeg')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "formy-tuberkuleza3.jpg" with class "jpg"
+INFO:NN_flask:Starting preprocess image...
+INFO:NN_flask:size = (300, 300)
+INFO:NN_flask:Starting analise image...
+INFO:NN_flask:Return on web-client predictions:  2, [0.43 0.57]
+INFO:NN_flask:Ending.
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:43:20] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:43:20] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: 'och-_ar.jpg' ('image/jpeg')>)])
+INFO:NN_flask:<FileStorage: 'och-_ar.jpg' ('image/jpeg')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "och-_ar.jpg" with class "jpg"
+INFO:NN_flask:Starting preprocess image...
+INFO:NN_flask:size = (300, 300)
+INFO:NN_flask:Starting analise image...
+INFO:NN_flask:Return on web-client predictions:  2, [0.06 0.94]
+INFO:NN_flask:Ending.
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:45:14] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:45:14] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: 'och-_ar.jpg' ('image/jpeg')>)])
+INFO:NN_flask:<FileStorage: 'och-_ar.jpg' ('image/jpeg')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "och-_ar.jpg" with class "jpg"
+INFO:NN_flask:Starting preprocess image...
+INFO:NN_flask:size = (300, 300)
+INFO:NN_flask:Starting analise image...
+INFO:NN_flask:Return on web-client predictions:  2, [0.06 0.94]
+INFO:NN_flask:Ending.
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:45:28] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:45:28] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:45:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:45:36] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:45:36] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:45:36] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:45:38] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:45:38] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:45:39] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:45:40] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: 'och-_ar.jpg' ('image/jpeg')>)])
+INFO:NN_flask:<FileStorage: 'och-_ar.jpg' ('image/jpeg')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "och-_ar.jpg" with class "jpg"
+INFO:NN_flask:Starting preprocess image...
+INFO:NN_flask:size = (300, 300)
+INFO:NN_flask:Starting analise image...
+WARNING:tensorflow:5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x0000018E3758BBE0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:NN_flask:Return on web-client predictions:  2, [0.06 0.94]
+INFO:NN_flask:Ending.
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:45:49] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:45:49] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: 'formy-tuberkuleza3.jpg' ('image/jpeg')>)])
+INFO:NN_flask:<FileStorage: 'formy-tuberkuleza3.jpg' ('image/jpeg')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "formy-tuberkuleza3.jpg" with class "jpg"
+INFO:NN_flask:Starting preprocess image...
+INFO:NN_flask:size = (300, 300)
+INFO:NN_flask:Starting analise image...
+WARNING:tensorflow:6 out of the last 6 calls to <function Model.make_predict_function.<locals>.predict_function at 0x0000018E37293370> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:NN_flask:Return on web-client predictions:  2, [0.43 0.57]
+INFO:NN_flask:Ending.
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:46:05] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:46:05] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: 'flg_no142_1978_ot_2014_4.jpg' ('image/jpeg')>)])
+INFO:NN_flask:<FileStorage: 'flg_no142_1978_ot_2014_4.jpg' ('image/jpeg')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "flg_no142_1978_ot_2014_4.jpg" with class "jpg"
+INFO:NN_flask:Starting preprocess image...
+INFO:NN_flask:size = (300, 300)
+INFO:NN_flask:Starting analise image...
+INFO:NN_flask:Return on web-client predictions:  2, [0.08 0.92]
+INFO:NN_flask:Ending.
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:48:21] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:48:21] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: 'lung-screen-1.jpg' ('image/jpeg')>)])
+INFO:NN_flask:<FileStorage: 'lung-screen-1.jpg' ('image/jpeg')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "lung-screen-1.jpg" with class "jpg"
+INFO:NN_flask:Starting preprocess image...
+INFO:NN_flask:size = (300, 300)
+INFO:NN_flask:Starting analise image...
+INFO:NN_flask:Return on web-client predictions:  1, [0.92 0.08]
+INFO:NN_flask:Ending.
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:49:09] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:49:09] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: 'Rentgen.jpg' ('image/jpeg')>)])
+INFO:NN_flask:<FileStorage: 'Rentgen.jpg' ('image/jpeg')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "Rentgen.jpg" with class "jpg"
+INFO:NN_flask:Starting preprocess image...
+INFO:NN_flask:size = (300, 300)
+INFO:NN_flask:Starting analise image...
+INFO:NN_flask:Return on web-client predictions:  1, [0.7 0.3]
+INFO:NN_flask:Ending.
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:49:56] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:49:56] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: 'formy-tuberkuleza3.jpg' ('image/jpeg')>)])
+INFO:NN_flask:<FileStorage: 'formy-tuberkuleza3.jpg' ('image/jpeg')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "formy-tuberkuleza3.jpg" with class "jpg"
+INFO:NN_flask:Starting preprocess image...
+INFO:NN_flask:size = (300, 300)
+INFO:NN_flask:Starting analise image...
+INFO:NN_flask:Return on web-client predictions:  2, [0.43 0.57]
+INFO:NN_flask:Ending.
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:50:16] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 18:50:16] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 144-211-921
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: 'formy-tuberkuleza3.jpg' ('image/jpeg')>)])
+INFO:NN_flask:<FileStorage: 'formy-tuberkuleza3.jpg' ('image/jpeg')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "formy-tuberkuleza3.jpg" with class "jpg"
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:06:57] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:06:57] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:06:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:06:59] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:06:59] "GET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:06:59] "GET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:07:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:07:22] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:07:22] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:07:22] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:07:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:07:36] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:07:36] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:07:36] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:07:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:07:59] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:07:59] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:07:59] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:08:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:08:56] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:08:57] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:08:57] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:08:59] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:08:59] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:08:59] "GET /Cnn_graph.PNG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:08:59] "GET /Cnn_matrix.PNG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:08:59] "GET /Transfer_graph.PNG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:08:59] "GET /Transfer_matrix.PNG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:00] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:01] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:01] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:14] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:14] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:14] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:43] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:43] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:43] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:46] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:46] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:46] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:47] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:47] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:47] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:47] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:47] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:47] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:49] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:49] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:52] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:52] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:52] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:54] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:54] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:56] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:56] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:09:56] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:11:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:11:15] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:11:15] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:11:15] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:11:17] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:11:17] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:11:17] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:11:17] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:11:17] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:11:17] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:11:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:11:18] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:11:19] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:11:19] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:12:49] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:12:49] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:13:32] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:13:32] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:13:35] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:13:35] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:13:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:13:38] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:13:38] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:13:38] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:13:57] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:13:57] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:13:58] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:13:58] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:13:58] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:13:58] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:14:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:14:00] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:14:00] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:14:00] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:14:01] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:14:01] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:14:01] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:14:01] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:14:01] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:14:01] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:14:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:14:01] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:14:02] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:14:02] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:15:12] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:16:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:16:43] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:16:43] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:16:43] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:16:46] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:16:46] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:16:46] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:16:47] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:16:47] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:16:47] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:16:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:16:47] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:16:48] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:16:48] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:19:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:19:31] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:19:31] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:19:31] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:21:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:21:05] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:21:05] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:21:05] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:21:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:21:15] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:21:15] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:21:15] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:21:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:21:24] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:21:24] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:21:24] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:21:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:21:42] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:21:42] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:21:42] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:22:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:22:05] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:22:06] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:22:06] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:22:24] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:22:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:22:55] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:22:55] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:22:55] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:23:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:23:20] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:23:20] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:23:20] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:23:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:23:28] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:23:29] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:23:29] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:24:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:24:34] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:24:34] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:24:34] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:26:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:26:36] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:26:37] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:26:37] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:27:00] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:28:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:28:31] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:28:31] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:28:31] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:28:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:28:37] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:28:37] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:28:37] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:28:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:28:48] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:28:49] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:28:49] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:28:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:28:56] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:28:57] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:28:57] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:29:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:29:04] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:29:04] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:29:04] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:29:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:29:11] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:29:11] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:29:11] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:29:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:29:28] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:29:28] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:29:28] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:29:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:29:40] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:29:40] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:29:40] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:29:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:29:52] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:29:52] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:29:52] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:30:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:30:09] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:30:09] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:30:09] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:30:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:30:22] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:30:23] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:30:23] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:30:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:30:30] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:30:30] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:30:30] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:30:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:30:42] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:30:42] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:30:42] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:30:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:30:48] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:30:48] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:30:48] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:30:55] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:30:55] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:30:55] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:30:55] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:30:55] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:30:55] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:30:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:30:59] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:31:00] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:31:00] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:31:01] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:31:01] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:31:01] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:31:01] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:31:01] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:31:01] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:34:53] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:34:53] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:34:53] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:34:53] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:34:53] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:34:53] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:34:56] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:34:56] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:34:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:34:59] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:34:59] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:34:59] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:35:00] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:35:00] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:35:00] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:35:00] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:35:00] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:35:00] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:35:01] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:35:01] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:35:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:35:08] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:35:08] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:35:08] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:35:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:35:22] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:35:22] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:35:22] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:35:25] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:35:25] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:35:25] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:35:25] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:35:25] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:35:25] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:35:26] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:35:26] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:35:34] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:36:05] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:36:05] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:36:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:36:07] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:36:07] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:36:07] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:36:09] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:36:09] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:36:09] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:36:09] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:36:09] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:36:09] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:36:13] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:36:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:36:33] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:36:33] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:36:33] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:36:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:36:53] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:36:53] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:36:53] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:40:50] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:40:50] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:40:50] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:40:50] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:40:50] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:40:50] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:41:02] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:41:02] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:41:03] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:41:03] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:41:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:41:06] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:41:06] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:41:06] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:42:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:42:13] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:42:13] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:42:13] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:42:14] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:42:14] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:42:15] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:42:15] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:42:15] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:42:15] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:43:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:43:08] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:43:08] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:43:08] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:46:02] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:46:02] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:46:02] "[36mGET /Cnn_graph.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:46:02] "[36mGET /Cnn_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:46:02] "[36mGET /Transfer_matrix.PNG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [01/Feb/2023 19:46:02] "[36mGET /Transfer_graph.PNG HTTP/1.1[0m" 304 -
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 144-211-921
+INFO:werkzeug:127.0.0.1 - - [02/Feb/2023 19:16:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Feb/2023 19:16:48] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Feb/2023 19:16:48] "GET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Feb/2023 19:16:48] "GET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Feb/2023 19:16:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Feb/2023 19:16:56] "GET /graph HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Feb/2023 19:16:56] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Feb/2023 19:16:56] "GET /Cnn_graph.PNG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Feb/2023 19:16:56] "GET /Cnn_matrix.PNG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Feb/2023 19:16:56] "GET /Transfer_matrix.PNG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Feb/2023 19:16:56] "GET /Transfer_graph.PNG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Feb/2023 19:16:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Feb/2023 19:16:57] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Feb/2023 19:16:57] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Feb/2023 19:16:57] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Feb/2023 19:16:59] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Feb/2023 19:16:59] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Feb/2023 19:17:00] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Feb/2023 19:17:00] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Feb/2023 19:17:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Feb/2023 19:17:20] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Feb/2023 19:17:20] "[36mGET /360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Feb/2023 19:17:20] "[36mGET /portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Feb/2023 19:17:26] "[36mGET /style.css HTTP/1.1[0m" 304 -

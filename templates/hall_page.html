@@ -1,0 +1,6 @@
+{% extends 'base_template.html' %}
+
+{% block content %}
+    <h2>Нажмите чтобы анализировать изображение</h2>
+    <button class="button"><a class="button_a" href="{{ url_for('analise.analise_img') }}">Загрузить изображение</a></button>
+{% endblock %}

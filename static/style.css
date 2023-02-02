@@ -1,0 +1,175 @@
+body {margin: 0; background-color: #C7D9B7 }
+
+h2 {
+     font-size: 30px; }
+h1 {text-align:left;
+     font-size: 50px; }
+
+form { text-align: center;
+        font-size: 25px}
+input { font-size: 25px;
+        text-align: center;}
+      ul.nav_bar {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: white;
+      }
+
+      ul.nav_bar  li {float: left;}
+
+      ul.nav_bar  li a {
+        display: block;
+        color: black;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      ul.nav_bar  li a.active {background-color: #516f97; color: white;}
+
+      ul.nav_bar  li.right {float: right;}
+
+      @media screen and (max-width: 600px) {
+        ul.nav_bar  li.right,
+        ul.nav_bar  li {float: none;}
+      }
+      * {box-sizing:border-box}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+    display: block;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: black;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: black;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+.pr {  display: grid;
+  grid-template-columns: 0.6fr 0.5fr;
+  grid-template-rows: 0.5fr 1.5fr 1fr 0.6fr 1.5fr 1fr 1fr;
+  gap: 0px 0px;
+  grid-auto-flow: row;
+  grid-template-areas:
+    "Tubic Tubic Image Image"
+    "Tubic-descript Tubic-descript Image Image"
+    "Tubic-descript Tubic-descript Image Image"
+    "List-discrpit List-discrpit . ."
+    "List List Image-2 Image-2"
+    "List List Image-2 Image-2"
+    "List List Image-2 Image-2";
+}
+
+.Tubic { grid-area: Tubic; }
+
+.Image { grid-area: Image;}
+
+.Image-2 { grid-area: Image-2; }
+
+.Tubic-descript { grid-area: Tubic-descript;}
+
+.List { grid-area: List; }
+
+.List-discrpit { grid-area: List-discrpit; }
+
+
+.image  {
+width:540px;
+height:auto;
+border-radius:50px;
+border: 4px solid #000000;
+outline: #516f97;
+}
+footer {
+position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;}
+.copyright {
+text-align: center;
+background-color: #111111;
+color: white;
+padding: 10px 0 10px 0;
+}
+ .button_a {
+ text-align:center; text-decoration: none; color: white;}
+ .button {
+ text-decoration: none; color:white; padding:10px; background-color: #516f97; border: 3px #16271F solid; border-radius: 10px;}
+ .button:hover {background-color: Gray;}
+
+p {
+  margin: 20px;
+  margin-bottom: 1rem;
+  padding-top: 10px;
+}
+
+h1 {margin: 5px;
+  padding-top: 10px;}
+h2 {margin: 20px;
+  padding-top: 10px}
